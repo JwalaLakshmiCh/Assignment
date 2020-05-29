@@ -1,0 +1,51 @@
+.topContainer{
+  text-align: left;
+  padding: 20px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.middleContainer{
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom:10px;
+  font-size: 18px;
+  font-family: sans-serif;
+  font-weight:bold;
+}
+
+.bottomConatiner{
+  text-align: left;
+  padding-left: 20px;
+
+}
+
+.labelDiv{
+  font-size: 12px;
+  padding-top: 15px;
+  padding-bottom: 5px;
+  font-family: sans-serif;
+}
+.inputDiv{
+  width: 25%;
+}
+input, select {
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  font-size: 12px;
+  padding: 10px;
+  color: #ccc;
+}
+
+.submitDiv{
+  padding-top: 12px;
+  padding-bottom: 15px;
+}
+
+ input[type=submit]{
+  background-color: orange;
+  color:white;
+  padding-right:20px;
+  padding-left:20px;
+}

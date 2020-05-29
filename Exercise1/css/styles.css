@@ -1,0 +1,41 @@
+.topContainer {
+  font-family: Calibri;
+  margin-left:20px;
+  font-size: 30px;
+  padding: 12px;
+  font-weight: bold;
+}
+ .middleContainer{
+   background-color: #3498DB;
+   font-family: calibri;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  margin-left: 20px;
+  float: left;
+  display: block;
+  padding: 8px;
+}
+
+.bottomContainer {
+  display: table;
+  padding: 10px;
+}
+
+.column {
+  display: table-cell;
+  width: 25%;
+  padding : 10px;
+
+}
+
+/* Clearfix (clear floats) */
+.row {
+  display: table-row;
+}
