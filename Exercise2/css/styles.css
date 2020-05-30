@@ -1,13 +1,11 @@
-.topContainer{
-  text-align: left;
-  padding: 20px;
+h2{
+  padding-top: 20px;
+  padding-bottom: 20px;
   font-size: 20px;
   font-family: sans-serif;
 }
 
-.middleContainer{
-  text-align: left;
-  padding-left: 20px;
+h3{
   padding-top: 10px;
   padding-bottom:10px;
   font-size: 18px;
@@ -15,10 +13,9 @@
   font-weight:bold;
 }
 
-.bottomConatiner{
+.Container{
   text-align: left;
   padding-left: 20px;
-
 }
 
 .labelDiv{
@@ -30,11 +27,12 @@
 .inputDiv{
   width: 25%;
 }
+
 input, select {
   box-sizing: border-box;
   border: 1px solid #ccc;
   font-size: 12px;
-  padding: 10px;
+   padding: 10px;
   color: #ccc;
 }
 

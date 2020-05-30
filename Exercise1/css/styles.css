@@ -1,11 +1,11 @@
-.topContainer {
+header {
   font-family: Calibri;
   margin-left:20px;
   font-size: 30px;
   padding: 12px;
   font-weight: bold;
 }
- .middleContainer{
+ .topContainer{
    background-color: #3498DB;
    font-family: calibri;
 }
