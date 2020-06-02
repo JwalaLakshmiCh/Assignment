@@ -1,0 +1,55 @@
+header{
+  font-family: sans-serif;
+  text-align: center;
+  padding: 15px;
+  background-color: #2E86C1;
+  color: white;
+  font-size: 15px;
+}
+
+.Container{
+  margin: 20px 50px;
+
+}
+
+.table{
+  display:table;
+}
+
+.column1{
+  display: table-cell;
+  padding: 0 7px;
+  width: 60%
+}
+
+.column2{
+  display: table-cell;
+  padding: 0 7px;
+  }
+
+.row{
+  display: table-row;
+}
+
+.row > header
+{
+  margin-top: 10px;
+}
+.Description
+{
+  box-sizing: border-box;
+  border: 1px solid #2E86C1;
+  font-family: sans-serif;
+  padding: 10px;
+  font-size: 12px;
+  line-height: 1.6
+
+}
+.rowHeading{
+  font-family: sans-serif;
+  text-align: left;
+  padding: 10px;
+  background-color: #2E86C1;
+  color: white;
+  font-size: 15px;
+}
