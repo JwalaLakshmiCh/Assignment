@@ -1,0 +1,118 @@
+header{
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: center;
+  padding: 20px 0;
+  background-color: crimson;
+}
+.Container{
+  margin-left: 200px;
+  margin-top: 20px;
+}
+.twitterContainer{
+  display: inline-block;
+  font-family: sans-serif;
+  width: 20%;
+  box-sizing: border-box;
+  border: 1px solid silver;
+  margin-left: 65px;
+}
+.twitterHeader{
+  color: white;
+  text-align:center;
+  background-color: dodgerblue;
+  padding: 7px 0;
+  font-size: 20px;
+}
+
+.greyContainer{
+  background-color: gainsboro;
+  font-size: 12px;
+  padding: 9px 0 9px 9px;
+}
+
+.whiteContainer{
+  background-color: white;
+  font-size: 12px;
+  padding: 9px 0 9px 9px;
+}
+
+.facebookContainer{
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: 20px;
+  font-family: sans-serif;
+  width: 20%;
+  box-sizing: border-box;
+  border: 1px solid silver;
+}
+.facebookHeader{
+  color: white;
+  text-align:center;
+  background-color: mediumblue;
+  padding: 7px 0;
+  font-size: 20px;
+}
+
+.bold{
+  font-weight: bold;
+}
+.searchContainer{
+  background-color: #e6e6e6;
+  padding: 15px;
+  height : 130px;
+}
+.googleContainer
+{
+  float: right;
+  width: 30%;
+  font-family: sans-serif;
+  margin-top: 20px;
+  margin-right: 225px;
+}
+.googleHeader
+{
+  text-align:center;
+  font-size: 16px;
+  color:crimson;
+  font-weight: bold;
+  margin: 10px;
+}
+
+input[type=text]
+{
+  border-color: white;
+  background-color: white;
+  padding: 12px;
+  margin-top: 10px 10px 10px 5px;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid white;
+}
+
+input[type=submit]
+{
+  background-color: crimson;
+  color: white;
+  text-align: center;
+  padding: 5px 22px;
+  float: right;
+  margin-top: 10px;
+  box-sizing: border-box;
+  border: 1px solid crimson;
+  font-size: 15px;
+}
+.footers{
+ font-family: sans-serif;
+ font-size: 15px;
+ margin-top: 10px;
+}
+.footers > p{
+  display: inline;
+}
+.link{
+  display: inline;
+  text-decoration: underline;
+  color: blue;
+}
